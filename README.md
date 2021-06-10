@@ -11,6 +11,7 @@ My name is Janakan Sivaloganathan and I am currently a B.Eng candidate for the c
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Russia built a computer that ran on water in 1936.
 
+                      (
                         )     (
                  ___...(-------)-....___
              .-""       )    (          ""-.
@@ -28,7 +29,7 @@ My name is Janakan Sivaloganathan and I am currently a B.Eng candidate for the c
  :               `-.__             __.-'              :
  :                  ) ""---...---"" (                 :
   '._               `"--...___...--"`              _.'
-    \""--..__                              __..--""/
+jgs \""--..__                              __..--""/
      '._     """----.....______.....----"""     _.'
         `""--..,,_____            _____,,..--""`
 
