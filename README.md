@@ -38,7 +38,7 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janakan2466)](https://www.linkedin.com/in/janakan2466) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jsivaloganathan)](https://twitter.com/jsivaloganathan) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100014947505937)](https://www.facebook.com/profile.php?id=100014947505937)
+[![Linkedin Badge](https://img.shields.io/badge/-Janakan Sivaloganathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janakan2466)](https://www.linkedin.com/in/janakan2466) [![Twitter Badge](https://img.shields.io/badge/-@Janakan Sivaloganathan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jsivaloganathan)](https://twitter.com/jsivaloganathan) [![Facebook Badge](https://img.shields.io/badge/-@Janakan Sivaloganathan-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100014947505937)](https://www.facebook.com/profile.php?id=100014947505937)
 
 
  ⚡ Fun fact: Russia built a computer that ran on water in 1936.
