@@ -15,7 +15,7 @@
 - :rocket: Always ready to collaborate
 - :dart: <q>If human life were long enough to find the ultimate theory, everything would have been solved by previous generations. Nothing would be left to be discovered</q> <address>~Stephen Hawking</address> 
 - :trophy: I aspire to lead business operations 
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :zap: Fun fact: Russia built a computer that ran on water in 1936.<br>
 
 <h2 align="left">:coffee: Let's get connected:</h2>
 
@@ -33,7 +33,3 @@
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-
-
-
- ⚡ Fun fact: Russia built a computer that ran on water in 1936.
