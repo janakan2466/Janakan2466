@@ -17,7 +17,7 @@
 - :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left">:coffee: Let's get connected:</h2>
 
 ![alt text][1.1]
 ![alt text][2.1]
