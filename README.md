@@ -13,8 +13,8 @@
 - :computer: I'm currently working on various tech stacks 
 - :hourglass_flowing_sand:  Exploring cloud infrastructure, systems engineering, devops
 - :rocket: Always ready to collaborate
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
+- :dart: <q>If human life were long enough to find the ultimate theory, everything would have been solved by previous generations. Nothing would be left to be discovered</q> <address>~Stephen Hawking</address> 
+- :trophy: I aspire to lead business operations 
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <h2 align="left">:coffee: Let's get connected:</h2>
