@@ -19,12 +19,12 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-![alt text][1.1][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
+![alt text][1.1]
+![alt text][2.1]]
+![alt text][3.1]
+![alt text][4.1]
+![alt text][5.1]
+![alt text][6.1]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
