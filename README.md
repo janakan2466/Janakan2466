@@ -20,7 +20,7 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 ![alt text][1.1]
-![alt text][2.1]]
+![alt text][2.1]
 ![alt text][3.1]
 ![alt text][4.1]
 ![alt text][5.1]
