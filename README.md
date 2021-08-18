@@ -24,7 +24,7 @@
 ![alt text][3.1]
 ![alt text][4.1]
 ![alt text][5.1]
-![https://github.com/Janakan2466][6.1]
+![alt text][6.1]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
