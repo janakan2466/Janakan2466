@@ -19,17 +19,17 @@
 
 <h2 align="left">:coffee: Let's get connected:</h2>
 
-![alt text][1.1]
-![alt text][2.1]
-![alt text][3.1]
-![alt text][4.1]
-![alt text][5.1]
-![alt text][6.1]
+[<img align="left" alt="Janakan2466" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Janakan2466 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Janakan2466 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Janakan2466 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Janakan2466 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Janakan2466 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[website]: http://jsivaloganathan.me/
+[twitter]: https://twitter.com/jsivaloganathan
+[youtube]: https://youtube.com/Janakan2466
+[instagram]: https://www.instagram.com/janz_s/
+[linkedin]: https://www.linkedin.com/in/janakan2466/
+[medium]: https://medium.com/@janakan2466
 
