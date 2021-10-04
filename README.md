@@ -5,7 +5,7 @@ Computer B.Eng Candidate </br>
 <h2 align="left">👨🏻‍💻 About Me</h2>
 
 - :computer: Intersted in learning new technologies
-- :hourglass_flowing_sand:  Exploring systems engineering, data engineering, devops
+- :hourglass_flowing_sand: Exploring systems engineering, data engineering, devops
 - :rocket: Always ready to collaborate
 - :dart: <q>If human life were long enough to find the ultimate theory, everything would have been solved by previous generations. Nothing would be left to be discovered</q> <address>~Stephen Hawking</address> 
 - :trophy: I aspire to be a leader
