@@ -22,8 +22,6 @@ Computer B.Eng Candidate </br>
 
 [website]: http://jsivaloganathan.me/
 [twitter]: https://twitter.com/jsivaloganathan
-[youtube]: https://youtube.com/Janakan2466
-[instagram]: https://www.instagram.com/janz_s/
 [linkedin]: https://www.linkedin.com/in/janakan2466/
 [medium]: https://medium.com/@janakan2466
 
