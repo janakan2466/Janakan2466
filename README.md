@@ -5,10 +5,10 @@ Computer B.Eng Candidate </br>
 <h2 align="left">👨🏻‍💻 About Me</h2>
 
 - :computer: Intersted in learning new technologies
-- :hourglass_flowing_sand: Exploring all streams of computer & software engineering
+- :hourglass_flowing_sand: Exploring all streams of Computer & Software Engineering
 - :rocket: Always ready to collaborate
 - :dart: <q>The important thing is not to stop questioning; curiosity has its own reason for existing</q> <address>~Albert Einstein</address> 
-- :trophy: I aspire to be a leader
+- :trophy: I aspire to lead
 - :zap: Fun fact: Russia built a computer that ran on water in 1936<br>
 
 <h2 align="left">:coffee: Find me</h2>
