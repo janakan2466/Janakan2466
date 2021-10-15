@@ -1,10 +1,12 @@
 <h1>Janakan Siva</h1>
-Computer B.Eng Candidate </br>
+B.Eng: Computer Candidate </br>
 
-- :dart: <q>The important thing is not to stop questioning; curiosity has its own reason for existing</q> <address>~Albert Einstein</address> 
+</br>
+
+:dart: <q>The important thing is not to stop questioning; curiosity has its own reason for existing</q> <address>~Albert Einstein</address> 
 
 
-<h2 align="left">:coffee: Find me</h2>
+<h2 align="left">:coffee:</h2>
 
 [<img align="left" alt="Janakan2466 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Janakan2466 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
