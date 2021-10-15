@@ -3,7 +3,7 @@ B.Eng: Computer Candidate </br>
 
 </br>
 
-:dart: &nbsp; *<q>The important thing is not to stop questioning; curiosity has its own reason for existing</q> <address>~Albert Einstein</address>*
+*<q>The important thing is not to stop questioning; curiosity has its own reason for existing</q> <address>~Albert Einstein</address>*
 
 
 <h2 align="left">:coffee: &nbsp;Socials</h2>
