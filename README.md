@@ -1,5 +1,5 @@
 <h1>Janakan Siva</h1>
-B.Eng: Computer Candidate </br>
+B.Eng Computer Candidate </br>
 
 </br>
 
