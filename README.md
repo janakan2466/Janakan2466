@@ -3,16 +3,15 @@ B.Eng Computer Candidate </br>
 
 </br>
 
-*<q>The important thing is not to stop questioning; curiosity has its own reason for existing <address>~Albert Einstein</address></q>*
-
+>*<q>The important thing is not to stop questioning; curiosity has its own reason for existing<address>~A. Einstein</address></q>*
 
 <h2 align="left">Socials</h2>
 
-[<img align="left" alt="Janakan2466 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="Janakan2466 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="Janakan2466 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Janakan2466 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- [<img align="left" alt="Janakan2466 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 
-[website]: http://jsivaloganathan.me/
-[linkedin]: https://www.linkedin.com/in/janakan2466/
-[medium]: https://medium.com/@janakan2466
+<!-- [website]: https://janakan.live/ -->
+<!-- [linkedin]: https://www.linkedin.com/in/janakan2466/ -->
+[medium]: https://medium.com/@JanakanS
 
