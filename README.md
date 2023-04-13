@@ -1,10 +1,6 @@
 <h1>Janakan Siva</h1>
 B.Eng Computer Candidate </br>
 
-</br>
-
->*<q>The important thing is not to stop questioning; curiosity has its own reason for existing<address>~A. Einstein</address></q>*
-
 <h2 align="left">Socials</h2>
 
 <!-- [<img align="left" alt="Janakan2466 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
